@@ -7,6 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingScoringLibrary", "Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingScoringTest", "BowlingScoringTest\BowlingScoringTest.csproj", "{75C8A5A6-4CC6-4C45-AE6F-502A55746A05}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewPreparationTest", "InterviewPreparationTest\InterviewPreparationTest.csproj", "{21C8383B-18F0-401F-B5FD-859E7AFFB76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvertMachanismUtility", "FileConvertMachanismUtility\FileConvertMachanismUtility.csproj", "{9FB3838A-55A8-4722-94AC-CF7BCCE2AF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConverterUtility", "FileConverterUtility\FileConverterUtility.csproj", "{3DDD840F-53A0-4F67-96EC-527A217A9E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{75C8A5A6-4CC6-4C45-AE6F-502A55746A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C8A5A6-4CC6-4C45-AE6F-502A55746A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C8A5A6-4CC6-4C45-AE6F-502A55746A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C8383B-18F0-401F-B5FD-859E7AFFB76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C8383B-18F0-401F-B5FD-859E7AFFB76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C8383B-18F0-401F-B5FD-859E7AFFB76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C8383B-18F0-401F-B5FD-859E7AFFB76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB3838A-55A8-4722-94AC-CF7BCCE2AF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB3838A-55A8-4722-94AC-CF7BCCE2AF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB3838A-55A8-4722-94AC-CF7BCCE2AF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB3838A-55A8-4722-94AC-CF7BCCE2AF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDD840F-53A0-4F67-96EC-527A217A9E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDD840F-53A0-4F67-96EC-527A217A9E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDD840F-53A0-4F67-96EC-527A217A9E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDD840F-53A0-4F67-96EC-527A217A9E95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
